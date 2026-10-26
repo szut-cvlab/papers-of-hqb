@@ -59,6 +59,10 @@ function parseIndexSidebar(indexPath, linkPrefix) {
 }
 
 export default defineConfig({
+  // GitHub Pages 项目站点需要子路径 base；本地开发不设即为根路径 '/'
+  // CI 中通过环境变量 PAGES_BASE 注入，例如 '/papers-of-hqb/'
+  base: process.env.PAGES_BASE || '/',
+
   title: '科研笔记',
   description: 'Research Notes - 论文阅读与专题调研',
 
