@@ -1,6 +1,6 @@
 ---
 name: paperNotes
-description: 论文阅读助手
+description: 论文阅读与解读专家。当用户提供 arXiv ID、论文标题、PDF、GitHub 仓库或公众号链接，要求精读论文、生成 readings/ 解读笔记并更新索引时使用。
 tools: list_files, search_file, search_content, read_file, read_lints, replace_in_file, write_to_file, execute_command, create_rule, delete_files, web_fetch, use_skill, web_search
 agentMode: agentic
 enabled: true
