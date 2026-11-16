@@ -121,7 +121,7 @@ papers/
 
 ### 方式二：加一篇专题调研
 
-在 `topics/` 下新建 `YYYY-MM-DD-<slug>.md`，然后在 `topics/index.md` 追加一行：
+在 `topics/` 下新建 `YYYY-MM-DD-<slug>.md`，然后自己手动去 `topics/index.md` 追加一行：
 
 ```markdown
 - [中文专题标题](/topics/2026-04-12-<slug>) — 一句话概要
