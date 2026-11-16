@@ -4,7 +4,7 @@
 
 覆盖方向：实时目标检测（YOLO / DETR 系）、遥感与低空无人机视觉、开放词汇与视觉-语言预训练模型。
 
-仓库地址：<https://github.com/szut-cvlab/paperNotes>
+仓库地址：<https://szut-cvlab.github.io/papers-of-hqb/>
 
 ---
 
