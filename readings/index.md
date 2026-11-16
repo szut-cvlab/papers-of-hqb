@@ -20,6 +20,7 @@
 
 - **12-21** [InternVL: Scaling up Vision Foundation Models and Aligning for Generic Visual-Linguistic Tasks](/readings/2023-12-21-internvl) — `internvl` `vision-foundation-model` `vision-language-alignment` `internvit-6b` `qllama` `contrastive-learning` `generative-learning` `cvpr2024`
 - **08-24** [Qwen-VL: A Versatile Vision-Language Model for Understanding, Localization, Text Reading, and Beyond](/readings/2023-08-24-qwenvl) — `qwen-vl` `large-vision-language-model` `visual-grounding` `ocr` `multi-image` `instruction-tuning` `multilingual`
+- **04-27** [Instance Segmentation in the Dark](/readings/2023-04-27-inssegdark) — `instance-segmentation` `low-light` `raw-image` `feature-denoising` `awd` `scb` `dsl` `lis-dataset` `ijcv2023`
 - **04-17** [Visual Instruction Tuning](/readings/2023-04-17-llava) — `llava` `visual-instruction-tuning` `multimodal-llm` `gpt4-data` `scienceqa` `instruction-following` `neurips2023`
 - **03-09** [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](/readings/2023-03-09-groundingdino) — `grounding-dino` `open-set-detection` `open-vocabulary-detection` `vision-language` `referring-expression-comprehension` `eccv2024`
 - **01-30** [BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and Large Language Models](/readings/2023-01-30-blip2) — `blip2` `q-former` `vision-language-pre-training` `frozen-llm` `zero-shot-vqa` `image-captioning` `icml2023`
@@ -37,6 +38,10 @@
 
 - **10-22** [An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale](/readings/2020-10-22-vit) — `vit` `vision-transformer` `image-classification` `self-attention` `transfer-learning` `iclr2021`
 - **05-26** [End-to-End Object Detection with Transformers](/readings/2020-05-26-detr) — `detr` `object-detection` `set-prediction` `transformer` `hungarian-matching` `end-to-end` `panoptic-segmentation`
+
+## 2018
+
+- **11-27** [Unprocessing Images for Learned Raw Denoising](/readings/2018-11-27-unprocessing) — `unprocessing` `raw-denoising` `isp-inversion` `image-synthesis` `camera-pipeline` `cvpr2019` `darmstadt-dataset`
 
 ## 2017
 
